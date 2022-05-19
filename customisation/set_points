@@ -1,0 +1,16 @@
+How to set the amount of points you have are listed below.
+  1. open Tetrys
+  2. pause the game
+  3. right click on the Tetrys window and select 'inspect'
+  4. go to the 'sources' tab in the window that would've opened
+  5. find app.js and open it, before pressing the button in the bottom left of the screen that looks like {}
+  6. find line 250 and click on the line number (reading '250')
+  7. press the pause button in the top right of the screen (this will pause the script execution)
+  8. in the console tab at the bottom of your screen, type in the following (DO NOT INCLUDE THE BOX BRACKETS):
+  u=[your desired amount of points]
+  
+  9. press the play button and close out of the 'inspect element' window
+  10. close out of the Tetrys extention and open it again. your points will be set to the desired amount
+  
+please note: this was not made by me, and I give full credit to the creator of the video linked below.
+https://www.youtube.com/watch?v=mfCQG_oYRtE
