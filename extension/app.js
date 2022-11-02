@@ -247,7 +247,7 @@
             E()
         }
     }
-
+u=12000
     function E() {
         N.shape = shapes[Math.round(Math.random() * (shapes.length - 1))], N.y = -N.shape.length + A(N.shape), N.x = 5 - Math.round(N.shape.length / 2), N.start_x = N.x, p = 75
     }
